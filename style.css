@@ -1,0 +1,73 @@
+.header, .about{
+    background-color: #1F2937;
+    
+}
+.header{
+    padding-top:20px;
+    display:flex;
+    justify-content: space-evenly;
+}
+.header .logo{
+    color:#F9FAF8;
+    font-size: 24px;
+    padding-left:30px;
+    width:400px;
+}
+.header a, .about-description{
+    color: #E5E7EB;
+    font-size: 18px;
+    text-decoration: none;
+}
+.header ul{
+    padding: 0;
+    margin: 0;
+    display:flex;
+    justify-content: space-between;
+    gap:20px;
+    list-style-type: none;
+    padding-right: 30px;
+    
+}
+.intro{
+    display: flex;
+    flex-direction: column;
+}
+.about-header{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin-bottom:10px;
+}
+
+.about-text p{
+    margin:0;
+}
+.about{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+    padding-top:70px;
+    padding-bottom: 70px;
+}
+.about img{
+    
+    width:40vw;
+}
+.about-text{
+    width:400px;
+}
+.about-button a{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    text-decoration: none;
+    border-radius: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.about-button{
+    margin-top:15px
+}
