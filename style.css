@@ -88,6 +88,7 @@ body{
     width:10vw;
 }
 .cards{
+    padding-bottom: 70px;
     display:flex;
     align-items: center;
     justify-content: space-evenly;
@@ -173,4 +174,10 @@ body{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+.card-container{
+    gap: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
