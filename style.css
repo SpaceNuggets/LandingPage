@@ -97,3 +97,23 @@ body{
     flex-wrap: wrap;
     width:10vw;
 }
+.quote{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #E5E7EB;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.quote-content{
+    font-size: 36px;
+    color: #1F2937;
+    width:50vw;
+}
+.author{
+    margin-top: 10px;
+    text-align: right;
+    font-size: 20px;
+    font-weight: bold;
+    color:#1F2937
+}
