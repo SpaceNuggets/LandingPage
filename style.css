@@ -165,3 +165,12 @@ body{
 .signup p{
     margin:0;
 }
+.footer{
+    background-color: #1F2937;
+    color:#F9FAF8;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
