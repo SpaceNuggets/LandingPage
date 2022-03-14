@@ -181,6 +181,6 @@ body{
 .card-container{
     gap: 5vw;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-evenly;
 }
